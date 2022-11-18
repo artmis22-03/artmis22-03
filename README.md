@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @artmis22-03
-- 👀 I’m interested in Game development and pyhton
+- 👀 I’m interested in Game development and python
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Game development projects
 - 📫 How to reach me sricham2203@gmail.com
