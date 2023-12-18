@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @artmis22-03
-- 👀 I’m interested in Game development and python
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in web development and python
+- 🌱 I’m currently learning machine learning concepts
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me sricham2203@gmail.com
 
