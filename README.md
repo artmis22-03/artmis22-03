@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @artmis22-03
-- 👀 I’m interested in web development and python
+- 👀 I’m interested in web development and python-- machine learning concepts
 - 🌱 I’m currently learning machine learning concepts
-- 💞️ I’m looking to collaborate on AI projects
+- 💞️ I would love to collaborate on interseting and new machine learning(training of models for specific purpose)
 - 📫 How to reach me sricham2203@gmail.com
 
 <!---
