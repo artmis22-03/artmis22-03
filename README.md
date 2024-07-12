@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @artmis22-03
+- 👋 Hi, I’m @artmis22-03( sri harsha)
 - 👀 I’m interested in web development and python-- machine learning concepts
 - 🌱 I’m currently learning machine learning concepts
 - 💞️ I would love to collaborate on interseting and new machine learning(training of models for specific purpose)
